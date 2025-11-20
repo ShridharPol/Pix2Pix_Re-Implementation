@@ -19,7 +19,7 @@ repository, with modifications to the **generator loss** and **network architect
 
 ---
 
-## 🔧 What’s New in This Version? (Your Contribution)
+## 🔧 What’s New in This Version? 
 
 ### ✔ VGG19 Perceptual Loss Added
 A pretrained VGG19 model (ImageNet) is used to extract mid-level feature maps  
